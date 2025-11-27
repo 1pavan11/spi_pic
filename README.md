@@ -1,1 +1,2 @@
-ECHO is on.
+PIC_UART
+PIC_SPI
